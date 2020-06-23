@@ -33,4 +33,4 @@ function removeGrid() {
         grid.remove()
     }
 }
-console.log("desing")
+console.log("design")
